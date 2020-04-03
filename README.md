@@ -8,9 +8,9 @@ This Python program displays the live position of the International Space Statio
 Live position data (latitude and longitude) sourced from http://open-notify.org/Open-Notify-API/ISS-Location-Now/  
 Velocity, Altitude and Time-of-day data sourced from https://api.wheretheiss.at/v1/satellites/25544  
 
-##Installation
+Installation  
 
-install poetry: pip install poetry
+install poetry: pip install poetry  
 git clone the repository
 create a virtual environment, ex.: virtualenv .venv
 go inside the virtual environment: poetry shell
